@@ -138,62 +138,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devexpert127&show_icons=true&count_private=true&theme=aura&hide_border=false" align="center" /></div>  
 <br/>
 
-## Introduction
-
-- [Learning Path](https://github.com/protofire/blockchain-learning-path)
-- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
-- [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
-- [Solana Doc](https://docs.solana.com/)
-- [Solanium](https://solanium.io/)
-- [NFT](https://solanart.io/)
-
-## Solana framework
-
-- [SPL doc](https://spl.solana.com/)
-- [Solana Program Library](https://github.com/solana-labs/solana-program-library)
-- [Anchor Framework](https://github.com/project-serum/anchor)
-- [Tokio](https://tokio.rs/)
-
-## For Begineers
-
-- [Oyster Swap UI](https://github.com/solana-labs/oyster-swap)
-- [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
-- [Figment Learn](https://learn.figment.io/)
-- [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
-- [Break Solana](https://github.com/solana-labs/break)
-- [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
-- [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
-- [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
-
-## For Experts
-
-- [Raydium ](https://github.com/raydium-io/raydium-ui)
-- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/):
-- [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
-- [Staking](https://github.com/step-finance/step-staking)
-- [Solana NFT](https://github.com/metaplex-foundation/metaplex)
-- [Staking and rewards](https://github.com/step-finance/reward-pool)
-- [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
-- [Messaging App](https://github.com/kemargrant/soltalk)
-
-## Solana explorer
-
-- [Solscan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
-- [Solana Explorer](https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
-
-## Cyber Security teams for audit
-
-1. [Halborn](https://halborn.com/)
-1. [Kudelski](https://kudelskisecurity.com/)
-
 <div align="center">
-    <a href="mailto:tadashihaku127@gmail.com" target="_blank">
+    <a href="mailto:devoshita0210@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
     </a>
-    <a href="https://join.skype.com/invite/YSCxeRHWVb75" target="_blank">
+    <a href="https://join.skype.com/invite/NjYADQ8vaqjP" target="_blank">
      <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
     </a>
-    <a href="https://t.me/devexpert127" target="_blank">
+    <a href="https://t.me/devoshita0210" target="_blank">
      <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
     </a>
 </div>
