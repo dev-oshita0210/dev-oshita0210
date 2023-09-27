@@ -1,4 +1,4 @@
-# Dev Expert in Solana and Ethereum
+# Web3 Expert with Solana, Ethereum (DeFi, NFT)
 
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -24,7 +24,7 @@
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10570.png" alt="BinanceSmartChain" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" alt="Tron" height="50" />  
-<br>
+<br><br>
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" alt="Cardano" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" alt="Defi" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" alt="Dapp" height="50" />  
@@ -33,7 +33,7 @@
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9272.png" alt="MunchToken" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" alt="BinanceCoin" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png" alt="Pancakeswap" height="50" />  
-<br>
+<br><br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td>
-      <font size = '4'>
+      <font size = '6'>
         <a href = 'https://coinmarketcap.com/currencies/solana/'>
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="SOL"> 
           Solana
@@ -109,7 +109,7 @@
       </font>
     </td> 
     <td>
-      <font size = '4'>
+      <font size = '6'>
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" height="16" width="16" alt="Defi"> Defi, Dex<br>
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/3878.png" height="16" width="16" alt="Swap"> Swap <br>
       <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEZ-tVFYtsVcQ/company-logo_200_200/0/1542294888849?e=2159024400&v=beta&t=IQGoiQ_JjaWdgqqCCXtuoZgQYRHMKqfZtN2l3JMRJ4M" height="16" width="16" alt="AMM">AMM<br>
@@ -120,7 +120,7 @@
       </font>
     </td>
     <td>
-      <font size = '4'>
+      <font size = '6'>
         <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a><br/>
         <a href = 'https://app.sunny.ag/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="sunny-finance"> Sunny</a><br/>
         <a href = 'https://saber.so/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" height="16" width="16" alt="saber">Saber</a><br/>
