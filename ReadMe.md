@@ -1,4 +1,4 @@
-# Web3 Expert with Solana, Ethereum (DeFi, NFT)
+# Web3 Expert with Solana, Ethereum, Substrate/Polkadot
 
 <a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
